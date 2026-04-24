@@ -23,13 +23,14 @@ Marketing sem operação comercial é vaidade cara.
 **Marketing sem operação comercial é vaidade cara.**
 
 ### Slide 2
-Tem empresa investindo em tráfego, conteúdo e campanha...
-mas continua perdendo lead como se isso fosse detalhe.
+Tem empresa investindo em tráfego, conteúdo e campanha.
+
+E ainda assim perdendo lead como se isso fosse detalhe.
 
 ### Slide 3
-Aí culpa o marketing.
+Depois culpa o marketing.
 
-Quando, na prática, o problema está na operação depois que o lead chega.
+Quando o problema real começa depois que o lead chega.
 
 ### Slide 4
 Lead entra.
@@ -39,15 +40,16 @@ Ninguém registra.
 Ninguém faz follow-up com consistência.
 
 ### Slide 5
-E depois a empresa fala:
-"tráfego não funciona"
-"Instagram não converte"
-"o lead era ruim"
+Aí vem o discurso clássico:
+- “tráfego não funciona”
+- “Instagram não converte”
+- “o lead era ruim”
 
-Não. A operação era fraca.
+Não.
+A operação era fraca.
 
 ### Slide 6
-Crescimento não vem só de atrair atenção.
+Crescimento não vem só de chamar atenção.
 
 Vem de ter estrutura para:
 - responder
@@ -63,11 +65,11 @@ Fraco no caixa.
 
 ### Slide 8
 Se a empresa quer crescer de verdade,
-elа precisa parar de pensar em campanha isolada
-and start thinking in system.
+precisa parar de pensar em campanha isolada
+e começar a pensar em sistema.
 
 ### Slide 9
-É por isso que a nova empresa não cresce só com marketing.
+A nova empresa não cresce só com marketing.
 
 Ela cresce com:
 - inteligência comercial
@@ -78,7 +80,7 @@ Ela cresce com:
 
 ### Slide 10
 A pergunta não é:
-"como gerar mais lead?"
+“como gerar mais lead?”
 
 A pergunta certa é:
 **o que acontece depois que o lead chega?**
@@ -87,18 +89,19 @@ A pergunta certa é:
 Muita empresa não tem problema de marketing.
 Tem problema de operação comercial escondido atrás do marketing.
 
-Atrair atenção sem estrutura de resposta, qualificação, registro e follow-up só cria a ilusão de movimento.
+Atrair atenção sem estrutura de resposta, qualificação, registro e follow-up cria a ilusão de movimento, não crescimento previsível.
 
-A empresa vê clique, alcance, lead entrando...
-mas no fim do mês não vê conversão na proporção que deveria.
+A empresa vê clique, alcance, lead entrando.
+Mas não vê conversão na proporção que deveria.
 
-Aí o mercado chama isso de marketing ruim.
-Eu chamo de sistema quebrado.
+Aí chama isso de marketing ruim.
+
+Na prática, o que está ruim é o sistema.
 
 Crescimento previsível não nasce só de campanha.
 Nasce de operação bem montada.
 
-É aí que entra inteligência comercial, automação, agentes e processo de verdade.
+É aí que entram inteligência comercial, automação, agentes e processo de verdade.
 
 Quem continuar tratando marketing como peça isolada vai continuar comprando volume e chamando desperdício de frustração.
 
@@ -108,6 +111,14 @@ Se quiser, eu posso te mostrar a estrutura mínima para parar de perder lead no 
 ## Comentário fixado
 A maioria das empresas não tem problema de marketing.
 Tem problema de operação comercial escondido atrás do marketing.
+
+## Direção visual sugerida
+- fundo limpo e forte
+- tipografia dominante
+- contraste alto
+- poucas informações por slide
+- estética de empresa séria, não de agência genérica
+- sensação de clareza, sistema e autoridade
 
 ## Observação estratégica
 Essa peça serve para marcar território logo no começo da semana.
