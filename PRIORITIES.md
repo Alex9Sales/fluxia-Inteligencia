@@ -2,13 +2,13 @@
 
 ## Current Priorities
 
-### 1. Stabilize Dany's operating foundation
+### 1. Stabilize Friday's operating foundation
 - keep Telegram DM-only clean and reliable
 - maintain GitHub-backed workspace history
 - keep core identity and operating files coherent
 
 ### 2. Build executive operating rhythm
-- define how Dany should track priorities over time
+- define how Friday should track priorities over time
 - decide what deserves reminders, heartbeat follow-up, or explicit task lists
 - reduce chaos by turning ideas into structured execution
 

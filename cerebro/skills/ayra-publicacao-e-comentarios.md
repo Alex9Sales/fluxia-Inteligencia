@@ -26,7 +26,7 @@ Ela deve operar com:
 ## Pré-requisito
 Antes desta skill entrar, a peça já deve estar:
 - criada
-- revisada por Dany
+- revisada por Friday
 - com legenda pronta
 - com CTA definido
 - com comentário fixado sugerido
@@ -34,7 +34,7 @@ Antes desta skill entrar, a peça já deve estar:
 
 ## Etapa 1. Checklist pré-publicação
 Antes de publicar, Ayra confirma:
-- a peça foi aprovada por Dany?
+- a peça foi aprovada por Friday?
 - a legenda final está certa?
 - o CTA está coerente?
 - o comentário fixado está alinhado?
@@ -121,10 +121,10 @@ Ayra não deve:
 - soar como agência desesperada
 - entrar em debate ruim sem necessidade
 - improvisar promessa comercial
-- responder tema sensível sem subir para Dany
+- responder tema sensível sem subir para Friday
 
-## Etapa 7. Escalonamento para Dany
-Ayra deve subir para Dany quando houver:
+## Etapa 7. Escalonamento para Friday
+Ayra deve subir para Friday quando houver:
 - comentário sensível
 - objeção relevante de marca
 - dúvida que impacta posicionamento

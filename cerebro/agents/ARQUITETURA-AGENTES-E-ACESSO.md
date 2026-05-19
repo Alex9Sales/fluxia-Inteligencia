@@ -1,7 +1,7 @@
 # Arquitetura de Agentes e Acesso
 
 ## Objetivo
-Definir como Alex acessa Dany, Ayra e futuros agentes sem transformar a operação em bagunça.
+Definir como Alex acessa Friday, Ayra e futuros agentes sem transformar a operação em bagunça.
 
 Este documento organiza:
 - hierarquia
@@ -13,15 +13,15 @@ Este documento organiza:
 ## Regra central
 Nem todo agente precisa falar diretamente com Alex.
 
-A maioria dos agentes deve operar como camada especializada sob coordenação da Dany.
+A maioria dos agentes deve operar como camada especializada sob coordenação da Friday.
 
-Dany continua sendo o centro de comando.
+Friday continua sendo o centro de comando.
 
 ## Hierarquia
 ### 1. Alex
 Dono do contexto, da direção e das decisões maiores.
 
-### 2. Dany
+### 2. Friday
 CEO AI.
 Camada principal de comando.
 Responsável por:
@@ -39,7 +39,7 @@ Exemplos:
 - futuros agentes → vendas, atendimento, CRM, app, pesquisa, etc.
 
 ## Papel de cada camada
-### Dany
+### Friday
 - pensa o sistema
 - define direção
 - aprova
@@ -50,11 +50,11 @@ Exemplos:
 - executa escopo específico
 - não redefine direção sozinho
 - entrega produção especializada
-- reporta ou devolve para Dany quando necessário
+- reporta ou devolve para Friday quando necessário
 
 ## Como Alex deve acessar o sistema
 ### Canal principal
-A conversa principal continua sendo com Dany em DM.
+A conversa principal continua sendo com Friday em DM.
 
 Esse é o canal executivo.
 
@@ -64,11 +64,11 @@ Faz sentido criar um grupo de operação no Telegram.
 Sugestões de nome:
 - Fluxia AI Ops
 - Mesa de Operações
-- Dany Command
+- Friday Command
 - Sales Tecnologia Ops
 
 ## Recomendação de estrutura no Telegram
-### 1. DM com Dany
+### 1. DM com Friday
 Usar para:
 - decisões estratégicas
 - direcionamento principal
@@ -81,7 +81,7 @@ Usar para:
 - acompanhamento de operação
 - tarefas delegadas
 - visibilidade de trabalho
-- futuras interações entre agentes e Dany
+- futuras interações entre agentes e Friday
 
 ## Como os agentes devem aparecer
 ### Regra recomendada
@@ -90,11 +90,11 @@ Agentes especialistas não devem falar o tempo todo.
 Eles entram quando:
 - forem acionados
 - uma tarefa exigir especialidade
-- Dany quiser expor um resultado de execução
+- Friday quiser expor um resultado de execução
 - fizer sentido dar visibilidade ao trabalho daquele agente
 
 ## Modelo de presença
-### Dany
+### Friday
 Sempre presente como camada de comando.
 
 ### Ayra
@@ -103,19 +103,19 @@ Presença condicionada ao tema Instagram e conteúdo.
 ### Outros agentes
 Entram só quando o escopo justificar.
 
-## Como Dany e os agentes se relacionam
+## Como Friday e os agentes se relacionam
 ### Fluxo ideal
 1. Alex pede ou direciona
-2. Dany interpreta e decide quem entra
+2. Friday interpreta e decide quem entra
 3. agente especialista executa
-4. Dany revisa, sintetiza ou aprova
+4. Friday revisa, sintetiza ou aprova
 5. resultado volta para Alex
 
 ## Como Alex acompanha o que Ayra está fazendo
 Há 3 níveis possíveis.
 
 ### Nível 1. Visão indireta
-Dany mostra:
+Friday mostra:
 - pauta
 - drafts
 - revisões
@@ -129,32 +129,32 @@ Ayra pode ter um canal ou sessão própria no futuro, se fizer sentido.
 
 ## Melhor escolha agora
 ### Curto prazo
-- manter Dany como canal principal
+- manter Friday como canal principal
 - criar grupo operacional depois, com governança clara
-- Ayra operar sob Dany
+- Ayra operar sob Friday
 
 ### Médio prazo
 - grupo operacional multiagente
 - agentes aparecem com escopo definido
-- Dany continua como camada de comando
+- Friday continua como camada de comando
 
 ## O que evitar
 - um monte de agentes falando ao mesmo tempo
 - agentes com autoridade difusa
 - duplicação de instrução
 - conversas paralelas sem comando central
-- especialista redefinindo estratégia sem passar por Dany
+- especialista redefinindo estratégia sem passar por Friday
 
 ## Publicação e execução
 No caso da Ayra, o fluxo fica:
 - Ayra cria
-- Dany aprova
+- Friday aprova
 - Ayra publica
 
 No futuro, isso pode ganhar canal mais visível, mas a regra de governança não muda.
 
 ## Ferramentas por camada
-### Dany
+### Friday
 - segundo cérebro
 - memória
 - docs estratégicos
@@ -170,9 +170,9 @@ No futuro, isso pode ganhar canal mais visível, mas a regra de governança não
 
 ## Decisão prática atual
 ### Agora
-- Dany segue como interface principal
+- Friday segue como interface principal
 - Ayra existe como agente especialista estruturada
-- publicamente, a operação ainda é guiada por Dany
+- publicamente, a operação ainda é guiada por Friday
 
 ### Próxima expansão natural
 - criar grupo operacional no Telegram
@@ -182,6 +182,6 @@ No futuro, isso pode ganhar canal mais visível, mas a regra de governança não
 ## Regra final
 A operação multiagente só funciona se houver comando claro.
 
-Nesse sistema, Dany é o eixo.
+Nesse sistema, Friday é o eixo.
 Os outros agentes aumentam capacidade.
 Não substituem governança.

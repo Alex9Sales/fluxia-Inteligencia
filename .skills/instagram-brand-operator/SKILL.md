@@ -1,6 +1,6 @@
 ---
 name: instagram-brand-operator
-description: Operate a brand Instagram with structured content, comments, memory, and conversion logic. Use when planning posts, writing captions, replying to comments, shaping persona-led presence, or turning Instagram activity into brand growth and leads for Fluxia/Dany.
+description: Operate a brand Instagram with structured content, comments, memory, and conversion logic. Use when planning posts, writing captions, replying to comments, shaping persona-led presence, or turning Instagram activity into brand growth and leads for Fluxia/Friday.
 ---
 
 # Instagram Brand Operator
@@ -102,7 +102,7 @@ Use structured outputs such as:
 
 ## For persona-led accounts
 
-If the Instagram presence is tied to a persona like Dany:
+If the Instagram presence is tied to a persona like Friday:
 - protect coherence between brand and person
 - define what is strategic/business-facing
 - define what is lifestyle/humanizing
@@ -133,5 +133,5 @@ For serious brand operation, also update or create:
 - `FLUXIA-POSITIONING.md`
 - `FLUXIA-BRAND-THESIS.md`
 - `FLUXIA-CONTENT-SYSTEM.md`
-- `DANY-PUBLIC-PERSONA.md`
-- `AGENTE-INSTAGRAM-DANY.md`
+- `FRIDAY-PUBLIC-PERSONA.md`
+- `AGENTE-INSTAGRAM-FRIDAY.md`

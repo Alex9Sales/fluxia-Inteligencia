@@ -2,7 +2,7 @@
 
 ## Current Execution Queue
 
-### 1. Keep Dany operationally stable
+### 1. Keep Friday operationally stable
 - maintain Telegram DM reliability
 - keep GitHub sync clean
 - preserve coherence across soul, style, memory, and playbook files

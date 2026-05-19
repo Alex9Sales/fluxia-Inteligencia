@@ -1,6 +1,6 @@
 ---
 name: setup-instagram-meta
-description: Configure Instagram Business publishing and comment-access foundations through Meta Graph API for OpenClaw-based workflows. Use when connecting an Instagram professional account for the first time, validating Meta credentials, retrieving page and Instagram business IDs, testing tokens, or preparing secure publication access for Fluxia/Dany operations.
+description: Configure Instagram Business publishing and comment-access foundations through Meta Graph API for OpenClaw-based workflows. Use when connecting an Instagram professional account for the first time, validating Meta credentials, retrieving page and Instagram business IDs, testing tokens, or preparing secure publication access for Fluxia/Friday operations.
 ---
 
 # Setup Instagram Meta

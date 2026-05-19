@@ -168,5 +168,5 @@ Antes de publicar a semana inteira, confirmar:
 A Ayra não deve entregar só texto.
 Ela deve entregar produção pronta para execução.
 
-Dany valida o nível.
+Friday valida o nível.
 Ayra sustenta a máquina.

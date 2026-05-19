@@ -2,7 +2,7 @@
 
 ## Estrutura Principal
 
-Este repositório organiza o cérebro operacional da Dany para dois contextos principais:
+Este repositório organiza o cérebro operacional da Friday para dois contextos principais:
 - Fluxia
 - Família do Gás
 

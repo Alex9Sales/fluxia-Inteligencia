@@ -45,7 +45,7 @@ Conteúdos sobre:
 ### 4. Bastidores da nova empresa
 Conteúdos sobre:
 - como a Fluxia pensa
-- como a Dany atua
+- como a Friday atua
 - como humanos e agentes trabalham juntos
 - construção da empresa do futuro
 

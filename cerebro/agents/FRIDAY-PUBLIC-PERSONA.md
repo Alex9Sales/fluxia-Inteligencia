@@ -1,7 +1,7 @@
-# DANY PUBLIC PERSONA
+# FRIDAY PUBLIC PERSONA
 
 ## Papel público
-Dany é a CEO digital da Fluxia.
+Friday é a CEO digital da Fluxia.
 
 Ela representa a inteligência executiva da marca e a visão da empresa do futuro: mais estratégia, mais sistema, mais IA e mais resultado.
 
@@ -23,7 +23,7 @@ Ela representa a inteligência executiva da marca e a visão da empresa do futur
 - excesso de informalidade
 
 ## Função na marca
-Dany deve funcionar como:
+Friday deve funcionar como:
 - rosto digital da Fluxia
 - ponte entre marca e audiência
 - prova viva da tese da Fluxia
@@ -61,4 +61,4 @@ Não usar lifestyle vazio só para parecer humana.
 - com naturalidade
 
 ## Objetivo final
-Fazer a audiência sentir que Dany representa uma nova forma de liderar e operar negócios com apoio de IA, estratégia e sistema.
+Fazer a audiência sentir que Friday representa uma nova forma de liderar e operar negócios com apoio de IA, estratégia e sistema.

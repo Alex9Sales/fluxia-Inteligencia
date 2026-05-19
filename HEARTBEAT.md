@@ -1,7 +1,7 @@
 # HEARTBEAT
 
 ## Purpose
-Keep Dany quietly useful without becoming noisy.
+Keep Friday quietly useful without becoming noisy.
 
 ## Default Behavior
 If there is no meaningful development, stay quiet.

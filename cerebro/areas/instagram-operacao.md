@@ -9,12 +9,12 @@ Não é tese de marca. Não é persona. Não é backlog solto.
 
 ## Estrutura de comando
 - Alex define direção de negócio e contexto maior
-- Dany define direção estratégica do canal
+- Friday define direção estratégica do canal
 - Ayra executa a operação
 
 Resumo funcional:
 - Alex decide rumos maiores
-- Dany aprova conteúdo e mantém coerência
+- Friday aprova conteúdo e mantém coerência
 - Ayra produz e organiza publicação
 
 ## Objetivo do canal
@@ -91,7 +91,7 @@ Ayra monta:
 - direção visual quando necessário
 
 ### Etapa 3. Revisão
-Dany revisa com foco em:
+Friday revisa com foco em:
 - coerência de posicionamento
 - clareza
 - força argumentativa
@@ -172,4 +172,4 @@ O canal não pode depender de inspiração solta.
 Ele deve operar como sistema.
 
 Ayra mantém a máquina girando.
-Dany garante direção e nível.
+Friday garante direção e nível.

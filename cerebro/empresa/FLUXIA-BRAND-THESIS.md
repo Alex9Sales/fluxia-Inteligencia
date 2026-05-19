@@ -39,8 +39,8 @@ A Fluxia não quer apenas vender serviços.
 
 Ela quer se tornar referência em mostrar como empresas podem usar IA, automação e inteligência comercial para gerar resultado real.
 
-## O papel da Dany nessa tese
-Dany representa a inteligência executiva da nova empresa.
+## O papel da Friday nessa tese
+Friday representa a inteligência executiva da nova empresa.
 
 Ela não é apenas uma personagem.
 Ela é uma prova pública do conceito.

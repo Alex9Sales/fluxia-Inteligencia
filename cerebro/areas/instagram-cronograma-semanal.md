@@ -50,7 +50,7 @@ Objetivo:
 
 Exemplos:
 - bastidor da Fluxia
-- como Dany e agentes operam juntos
+- como Friday e agentes operam juntos
 - opinião forte sobre mercado
 - CTA para conversar sobre operação e crescimento
 
@@ -92,8 +92,8 @@ Ayra deve:
 - manter coerência entre temas
 - reaproveitar ideias fortes
 
-## Papel da Dany no cronograma
-Dany deve:
+## Papel da Friday no cronograma
+Friday deve:
 - revisar a semana antes da execução
 - garantir coerência com a tese da Fluxia
 - cortar post genérico
@@ -128,4 +128,4 @@ O cronograma não é apenas agenda.
 Ele é o trilho da operação.
 
 Ayra usa esse trilho para produzir.
-Dany usa esse trilho para aprovar com consistência.
+Friday usa esse trilho para aprovar com consistência.

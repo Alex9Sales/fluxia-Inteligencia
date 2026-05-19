@@ -11,7 +11,7 @@ Esta skill junta:
 - direção visual
 
 ## Resultado esperado
-Ao final do fluxo, Ayra deve entregar uma semana pronta para revisão da Dany, contendo:
+Ao final do fluxo, Ayra deve entregar uma semana pronta para revisão da Friday, contendo:
 - pauta semanal
 - peça de segunda
 - peça de quarta
@@ -24,7 +24,7 @@ Ao final do fluxo, Ayra deve entregar uma semana pronta para revisão da Dany, c
 ## Entradas possíveis
 A skill pode começar a partir de:
 - uma meta da semana
-- uma direção de Dany
+- uma direção de Friday
 - uma prioridade da Fluxia
 - uma tese que precisa ser desdobrada
 - uma campanha ou janela comercial
@@ -33,8 +33,8 @@ A skill pode começar a partir de:
 Antes de montar a semana, Ayra deve se alinhar com:
 - `cerebro/empresa/FLUXIA-CONTENT-SYSTEM.md`
 - `cerebro/empresa/FLUXIA-POSITIONING.md`
-- `cerebro/agents/DANY-PUBLIC-PERSONA.md`
-- `cerebro/agents/AGENTE-INSTAGRAM-DANY.md`
+- `cerebro/agents/FRIDAY-PUBLIC-PERSONA.md`
+- `cerebro/agents/AGENTE-INSTAGRAM-FRIDAY.md`
 - `cerebro/agents/AYRA-INSTAGRAM-OPERATOR.md`
 - `cerebro/areas/instagram-operacao.md`
 - `cerebro/areas/instagram-cronograma-semanal.md`
@@ -99,10 +99,10 @@ Ao final, Ayra consolida tudo num pack operacional com:
 - checklist pré-publicação
 - coerência visual da semana
 
-### Etapa 7. Passar para Dany
-Ayra não publica a semana sem a camada de revisão da Dany.
+### Etapa 7. Passar para Friday
+Ayra não publica a semana sem a camada de revisão da Friday.
 
-Dany valida:
+Friday valida:
 - força da tese
 - coerência com a Fluxia
 - clareza comercial
@@ -110,7 +110,7 @@ Dany valida:
 - risco de conteúdo genérico ou fraco
 
 ### Etapa 8. Ajuste pós-revisão
-Se Dany corrigir algo:
+Se Friday corrigir algo:
 - tom
 - tese
 - CTA
@@ -172,5 +172,5 @@ Ayra não produz post solto.
 
 Ayra opera semanas.
 
-Dany mantém a direção.
+Friday mantém a direção.
 Ayra mantém a máquina andando.

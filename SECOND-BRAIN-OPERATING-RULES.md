@@ -3,7 +3,7 @@
 ## Objetivo
 Manter o segundo cérebro útil, limpo e operacional.
 
-Este sistema existe para ajudar Dany e Alex a:
+Este sistema existe para ajudar Friday e Alex a:
 - pensar melhor
 - lembrar o que importa
 - operar com continuidade
