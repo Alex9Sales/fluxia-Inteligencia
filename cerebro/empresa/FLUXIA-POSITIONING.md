@@ -1,63 +1,71 @@
 # FLUXIA POSITIONING
 
-## O que a Fluxia é
-A Fluxia não é apenas uma empresa de tráfego pago ou automação de atendimento.
+> Atualizado em 2026-05-19 para o posicionamento AI-First. Substitui a versão anterior, focada em "sistemas de crescimento".
 
-A Fluxia é uma empresa de crescimento orientada por inteligência comercial, automação, agentes de IA e execução estratégica.
+## O que a Fluxia é
+A Fluxia desenha, constrói e opera agentes autônomos e fluxos de atendimento com IA que pensam, decidem e executam — 24/7, em escala, com previsibilidade.
+
+Não é agência de marketing. Não é fornecedora de chatbot de fluxo. É uma empresa de infraestrutura de IA para operações.
+
+## Headline da marca
+"Sua empresa, operando como uma AI-First."
+
+## Manifesto central
+A Fluxia constrói uma camada de inteligência que decide, conversa, prospecta, fecha e opera — como um time digital que nunca dorme.
 
 ## Tese central
-Empresas que combinam humanos, sistemas e agentes de IA podem operar melhor, vender mais, crescer com mais previsibilidade e gerar mais lucro.
+A próxima geração de empresas não vai apenas usar IA como ferramenta de apoio. Ela vai colocar agentes autônomos para executar partes inteiras da operação, com humanos supervisionando em vez de executando.
 
-A Fluxia existe para mostrar isso na prática e implantar essa vantagem em outras empresas.
+AI-First não é chatbot. É mudar quem executa.
+- Empresa tradicional: humano executa, ferramenta ajuda.
+- Empresa AI-First: agente executa, humano supervisiona.
 
-## Posicionamento principal
-A Fluxia constrói sistemas de crescimento para empresas que querem vender mais com clareza, velocidade, previsibilidade e inteligência.
-
-## Território da marca
+## O território da marca
 A Fluxia ocupa o território de:
-- crescimento empresarial
-- inteligência comercial
-- automação operacional
-- agentes de IA aplicados ao negócio
-- sistemas de aquisição, atendimento e conversão
-- operação mais leve, rápida e lucrativa
+- agentes autônomos aplicados à operação
+- orquestração multi-agente
+- atendimento e comercial operados por IA
+- prospecção, follow-up, cobrança e suporte sem depender de pessoa
+- operação 24/7, em escala, previsível
 
-## O que a Fluxia não quer transmitir
-- agência genérica de marketing
-- empresa limitada a tráfego pago
-- prestadora de chatbot sem visão de negócio
-- marca focada em hype vazio de IA
+## Os 8 agentes da Fluxia
+1. **Atendimento** — conversas naturais em PT-BR, no tom da marca
+2. **Qualificação** — aplica o ICP, marca lead frio/quente e prioriza
+3. **Agendamento** — lê agenda, sugere horário e confirma reunião
+4. **Prospecção** — pesquisa empresas no Google, LinkedIn e sites, e enriquece
+5. **Redação** — cold outreach personalizado por empresa, não template
+6. **Cobrança** — lembra inadimplente, envia boleto, negocia parcelamento
+7. **Suporte N1** — rastreia pedido, troca, devolução, FAQ dinâmico
+8. **Reativação** — identifica clientes parados e dispara cadência personalizada
+
+## Stack como prova de autoridade
+OpenAI · Anthropic · N8N · Chatwoot · Supabase · WhatsApp Cloud · Postgres · Evolution API.
+
+A stack importa: diferencia a Fluxia de agência comum e atrai fundadores e times técnicos.
+
+## O que a Fluxia NÃO quer transmitir
+- agência genérica de marketing ou tráfego
+- "secretária IA" / chatbot de WhatsApp de fluxo fixo
+- automação local sem visão de operação
+- hype vazio de IA
 
 ## O que a Fluxia quer transmitir
-- crescimento real
-- resultado financeiro
-- estrutura comercial forte
-- automação com propósito
-- IA aplicada ao operacional e ao lucro
-- visão de futuro com execução no presente
+- agentes que executam de verdade, não só respondem
+- operação mais leve, inteligente e lucrativa
+- previsibilidade e escala
+- IA aplicada ao comercial e ao operacional
+- empresa de produto e infraestrutura, não de serviço avulso
 
 ## Promessa principal
-Ajudamos empresas a crescer com sistemas mais inteligentes, atendimento mais eficiente, operação mais organizada e conversão mais previsível.
+A Fluxia coloca a sua operação para rodar AI-First: agentes que prospectam, atendem, qualificam, agendam, cobram, dão suporte e reativam — sem depender de esforço manual.
 
-## Como a Fluxia deve ser percebida
-- moderna
-- forte
-- premium
-- inteligente
-- orientada a resultado
-- operacional
-- estratégica
-- futurista sem ser abstrata
-
-## Diferencial
-A Fluxia não fala apenas sobre crescimento com IA.
-Ela constrói e opera isso na prática.
-
-A própria Fluxia deve funcionar como prova viva do que uma empresa altamente assistida por IA é capaz de entregar.
+## CTA da marca
+"Pronto para parar de terceirizar e começar a orquestrar?"
+Contato: WhatsApp wa.me/5567936180557 · contato@fluxia.salestecnologia.com.br
 
 ## Frases-base da marca
-- Crescimento com inteligência, automação e execução.
-- Operações mais leves, inteligentes e lucrativas.
-- Sistemas de crescimento para empresas que querem vender mais.
-- IA aplicada ao comercial, atendimento e operação.
-- Mais estrutura. Mais previsibilidade. Mais resultado.
+- Sua empresa, operando como uma AI-First.
+- Um time digital que nunca dorme.
+- AI-First não é chatbot. É mudar quem executa.
+- Agentes que pensam, decidem e executam — 24/7.
+- Pare de terceirizar. Comece a orquestrar.

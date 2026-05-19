@@ -27,24 +27,24 @@ O Instagram deve servir para:
 - reforçar o posicionamento da Fluxia como empresa de crescimento, IA, automação e inteligência comercial
 
 ## Motor do sistema
-O canal roda em cima de 4 pilares:
-- tese e autoridade
-- educação aplicada
-- bastidor e presença
-- comercial e oportunidade
+O canal roda em cima de 5 pilares AI-First (ver `cerebro/empresa/FLUXIA-CONTENT-SYSTEM.md`):
+- prova viva — a Fluxia operando com agentes, tela real
+- educação AI-First — por que o modelo antigo falha
+- os 8 agentes — cada agente vira conteúdo
+- autoridade técnica light — stack e raciocínio
+- resultado de agente — cases em linguagem de agente
 
 ## Cronograma base
 O cronograma deve ser simples o bastante para ser mantido.
 
-### Ritmo inicial sugerido
-- 3 posts por semana
-- 2 conteúdos fortes de autoridade ou educação
-- 1 conteúdo de bastidor, presença ou comercial
+### Ritmo
+- 4 posts por semana
 
-### Exemplo de semana
-- segunda: carrossel de tese ou posicionamento
-- quarta: conteúdo aplicado, erro comum, framework ou insight comercial
-- sexta: bastidor, presença, prova, opinião ou CTA mais direto
+### Estrutura da semana
+- segunda: carrossel educativo do conceito AI-First
+- terça: Reels "bastidores do agente" com tela real
+- quinta: post de "agente em ação", um dos 8 agentes
+- sexta: case/resultado de cliente em linguagem de agente
 
 ## Tipos de peça
 ### Carrossel
